@@ -1,3 +1,3 @@
 # Modal-window
 
-ctn-modal-window.netlify.app
+https://ctn-modal-window.netlify.app/
